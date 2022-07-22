@@ -10,9 +10,9 @@ Prerequisites:
 
 2. Create 4 buckets 
 
-• Main bucket where objects are uploaded
+   • Main bucket where objects are uploaded
 
-• Txt, pdf, img bucket to store the objects after sorting accordingly.
+   • Txt, pdf, img bucket to store the objects after sorting accordingly.
 
 Steps:
 
