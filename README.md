@@ -9,7 +9,9 @@ Prerequisites:
 1. Create a role with AWS S3 full access and AWS CloudWatch full access.
 
 2. Create 4 buckets 
+
 • Main bucket where objects are uploaded
+
 • Txt, pdf, img bucket to store the objects after sorting accordingly.
 
 Steps:
